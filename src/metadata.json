@@ -1,0 +1,7 @@
+{
+  "name": "Nowa - Digital Identity for Children",
+  "description": "A secure, privacy-focused digital identity platform for children using SSI principles, dynamic QR codes, and multi-factor authentication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
